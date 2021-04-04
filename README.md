@@ -5,3 +5,5 @@
 2. Run the application: npm run start
 
 3. Run JSON Server: npx json-server --watch data/db.json --port 8000
+
+Reference: Net Ninja's React Tutorial
